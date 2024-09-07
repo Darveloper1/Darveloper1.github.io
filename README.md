@@ -1,6 +1,9 @@
 # Darveloper1.github.io
 
-## Hello! I will be using this for Web App Development II AY24/25.
+Hello! I will be showing off what I learnt in Web Application Development II AY24/25.
 
-### Content covered:
-Week 1: Intro + Top-Down approach to CSS
+### Content covered and incorporated into the website:
+#### Note: Responsiveness will be set to container-fluid to accomodate all devices
+Week 1: Layout of HTML Page
+Week 2: Title and Footer [Use of CSS]
+Week 3: Navigation Bar [Use of containers, grids, and breakpoints from Bootstrap]
