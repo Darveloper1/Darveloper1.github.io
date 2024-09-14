@@ -1,0 +1,38 @@
+body {
+    /* background-color: linear-gradient(#2f2f2f, #e8e8e8); */
+    background-color: yellowgreen;
+}
+
+.primarycolour {
+    background-color: #90b7ff;
+}
+
+.secondarycolour {
+    background-color: #dfb8fa;
+}
+
+.row-1 {
+    margin: 20px;
+} 
+
+.row-2 {
+    margin: 10px;
+}
+
+.emphasis {
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+}
+
+.bigbox {
+    background-color: grey;
+    border: 2px solid lightgrey;
+    padding: 30px;
+}
+
+.smallbox {
+    background-color: grey;
+    border: 1px solid lightgrey;
+    padding: 10px;
+}
